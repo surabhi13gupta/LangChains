@@ -7,3 +7,7 @@ Order:
 - document_similarity
 - prompt_template
 - chatprompt_template
+- langchain_output_string_parser
+- json_output_parser
+- structured_output_parser
+- pydantic_output_parser
